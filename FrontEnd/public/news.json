@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Item One",
+      "image": "item_one.jpg",
+      "categories": ["CategoryA", "CategoryB"],
+      "description": "This is the description for Item One."
+    },
+    {
+      "id": 2,
+      "name": "Item Two",
+      "image": "item_two.png",
+      "categories": ["CategoryB", "CategoryC"],
+      "description": "A brief description of Item Two goes here."
+    },
+    {
+      "id": 3,
+      "name": "Item Three",
+      "image": "item_three.gif",
+      "categories": ["CategoryA", "CategoryC"],
+      "description": "Description for Item Three can be added here."
+    },
+    {
+      "id": 4,
+      "name": "Item Four",
+      "image": "item_four.jpeg",
+      "categories": ["CategoryD"],
+      "description": "Item Four comes with its own description."
+    },
+    {
+      "id": 5,
+      "name": "Item Five",
+      "image": "item_five.png",
+      "categories": ["CategoryA", "CategoryD"],
+      "description": "The description for Item Five is provided here."
+    }
+  ]
+  
